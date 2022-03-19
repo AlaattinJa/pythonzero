@@ -1,0 +1,25 @@
+powershell commands
+ls = It shows all the files in the related folder.	  
+cd = switch to folder		 		
+cd.. = switching to a subfolder
+cd\ = command to change to home directory
+cls= command to clear screen
+mkdir= creating a folder.
+echo= creating a file in a folder
+
+.........................................................
+writing commands to the screen in python..
+print command
+
+ex: print ("HELLO")
+.. no semicolon needed in python
+
+screen output 
+
+>>Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Alaat\Desktop\python_work> & C:/Users/Alaat/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Alaat/Desktop/python_work/start.py
+HELLO
